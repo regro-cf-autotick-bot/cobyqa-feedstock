@@ -9,6 +9,8 @@ Package license: BSD-3-Clause
 
 Summary: Constrained Optimization BY Quadratic Approximations
 
+Development: https://github.com/cobyqa/cobyqa
+
 Documentation: https://www.cobyqa.com
 
 COBYQA is a derivative-free optimization solver for general optimization.
