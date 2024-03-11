@@ -1,5 +1,5 @@
 {% set name = "cobyqa" %}
-{% set version = "1.0.2" %}
+{% set version = "1.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/cobyqa-{{ version }}.tar.gz
-  sha256: adbc13ad3d5be0f7e18288b83b601b7b3b2999cad856b9a772c0aea9ea9169fb
+  sha256: 7c732d4009b49589acc4a53b2ede4e41bd0f36eab88e1dc628adaff8151ddc45
 
 build:
   noarch: python
